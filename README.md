@@ -102,8 +102,4 @@ Perfect for learning and exploring how real-world geolocation analytics might wo
 ## Notes
 
 * The locations and paths are **completely simulated**.
-* No personal data is stored or processed here — everything is placeholder/demo data.
-
----
-
-If you want, I can also generate a **Badges section**, a **project logo**, or help you add a **project description for GitHub SEO**! 🏝️🚀
+* No personal data is stored or processed here — everything is placeholder/demo 
